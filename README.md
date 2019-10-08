@@ -12,5 +12,14 @@ Steps
 
 - List Phrases about yourself: It is too early.
 
-
+To Do List
+- Nationality: Eritrean
+- Ethnicity: Tigrayan
+- Country: Eritrea
+- Birth place: Acria, Asmara, Eritrea
+- Full Name: Selihom Teklay
+- Culture: The Tigray are descendants of a Semitic people who intermixed with the Cushitic inhabitants of the region and founded the Christian kingdom of Aksum, which had its capital in the historic region of Tigray. The Tigray are a sedentary agricultural people.
+- Religion:  58% Orthodox, 5% Roman Catholic, less than 1% Protestant, 13% Roman Catholic and others, which includes "Protestants, Seventh-day Adventists, Jehovah's Witnesses, Buddhist, Hindus, and Baha'is" at less than 5%, are included in the 95% Christianity and  4%  of the population are Islam in Eritrea.
+-  Customs Examples food & celebrations: In Eritrea, in the Tigray religion, bread is one of the main foods. Two of the more common varieties are a thin, pancake-like bread preferred by most people, and a dense, disk-shaped loaf of baked whole wheat bread. Pancakes are 12 to 18 inches (30 to 45 centimeters) in diameter, and are made from many kinds of cereal grains (wheat, barley, etc.). A variety of tsebhi (spicy stews ) are eaten with the bread.
+Read more: https://www.everyculture.com/wc/Costa-Rica-to-Georgia/Tigray.html#ixzz61mQCUwi5
 # to include
