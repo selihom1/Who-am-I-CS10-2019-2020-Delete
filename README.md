@@ -16,7 +16,7 @@ To Do List
 - Nationality: Eritrean
 - Ethnicity: Tigray
 - Country: Eritrea
-- Birth place: Acria, Asmara, Eritrea
+- Birth place: Eritrea
 - Full Name: Selihom Teklay
 - Culture: The Tigray are descendants of a Semitic people who intermixed with the Cushitic inhabitants of the region and founded the Christian kingdom of Aksum, which had its capital in the historic region of Tigray. The Tigray are a sedentary agricultural people.
 - Religion:  58% Orthodox, 5% Roman Catholic, less than 1% Protestant, 13% Roman Catholic and others, which includes "Protestants, Seventh-day Adventists, Jehovah's Witnesses, Buddhist, Hindus, and Baha'is" at less than 5%, are included in the 95% Christianity and  4%  of the population are Islam in Eritrea.
